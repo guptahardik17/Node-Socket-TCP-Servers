@@ -1,4 +1,4 @@
-# Node-Socket-TCP-Servers
+# Node-Socket-TCP-Servers (Simple Chat Application through console)
 
 ## Deployment
 
